@@ -23,4 +23,4 @@ Ajmal Ali Khan
 Passionate about web development, software engineering, and building tools that improve everyday productivity.
  • LinkedIn : www.linkedin.com/in/ajmal-ali-khan-a09471222
 
-⭐ If you like this project, don’t forget to star the repository!
+⭐ If you like this project, don’t forget to star the repository! 
