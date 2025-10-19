@@ -6,6 +6,21 @@ The app features an intuitive interface with emoji-based task icons, swipe gestu
 
 Built using React, Tailwind CSS, and Supabase, Uptrack is fully responsive, lightweight, and deploy-ready — designed for learning, productivity, and portfolio showcase.
 
-Would you like me to add one extra short line like:
+**🌐 Deployment**
 
-🔗 Live Demo: https://uptrack-your-goals.com/
+Deployed on Vercel
+Visit the live app 👉 ( uptrack-your-habits.vercel.app )
+
+💡 Future Improvements
+
+- Add user authentication
+- Include analytics dashboard for habit insights
+- Support dark/light mode toggle
+
+🧑‍💻 **Author**
+
+Ajmal Ali Khan
+Passionate about web development, software engineering, and building tools that improve everyday productivity.
+ • LinkedIn : www.linkedin.com/in/ajmal-ali-khan-a09471222
+
+⭐ If you like this project, don’t forget to star the repository!
