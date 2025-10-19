@@ -9,7 +9,7 @@ Built using React, Tailwind CSS, and Supabase, Uptrack is fully responsive, ligh
 **🌐 Deployment**
 
 Deployed on Vercel
-Visit the live app 👉 ( uptrack-your-habits.vercel.app )
+Visit the live app 👉 (https://uptrack-your-habits.vercel.app/) 
 
 💡 Future Improvements
 
